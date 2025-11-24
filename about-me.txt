@@ -1,1 +1,6 @@
 “My favorite programming language is JavaScript.”
+“My favorite programming language is JavaScript.”
+Education:
+- Studying Software Engineering
+- Passionate about lifelong learning
+
