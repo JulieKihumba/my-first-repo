@@ -1,1 +1,2 @@
 My name is Juliet Kihumba and I am a Software Engineer and i love coding.
+“My favorite programming language is Python.”
